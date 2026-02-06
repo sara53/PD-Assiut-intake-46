@@ -1,0 +1,44 @@
+== var -- let -- const // done
+== default values
+== rest params 
+== destructring  // done
+== spread operator  // done
+== arrow function // done
+== string api
+== array api
+
+/**
+ * --------------------------------------------------
+ * var
+ * --------------------------------------------------
+ * == reassign for values with different datatype
+ * == allow redeclaration
+ * == HOISTING
+ * == function scope
+ * == added to window object
+ * ----------------------------------------
+ * let
+ * ------------------------------------------
+ *  == reassign for values with different datatype
+ *  == redeclaration n't allowed
+ *  == HOISTING -- (TDZ) -- can't access before initialization
+ *  == Block scope
+ *  ==  not added to window object
+ * ----------------------------------------
+ * const
+ * ------------------------------------------
+ *  == can't reassign for values with different datatype
+ *  == redeclaration n't allowed
+ *  == HOISTING -- (TDZ) -- can't access before initialization
+ *  == Block scope
+ *  ==  not added to window object
+ */
+
+== find
+== findIndex
+== map
+== some
+== every
+== forEach
+== filter
+== reduce ()
