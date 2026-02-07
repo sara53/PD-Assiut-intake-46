@@ -1,0 +1,12 @@
+== object new santax
+== object.keys
+== object.values
+== object.entries
+== object.assign
+== async code execution in memory
+== promise
+    -- then -- catch
+    -- async await
+== fetch
+
+

@@ -10,3 +10,8 @@ const products = [
 let result = products.filter((product) => product.category == "school");
 
 console.log(result);
+
+//3
+// [ "ola", "ali", "hoda" ] //["Ola","Ali","Hoda"]
+
+// "hello Javascript"
